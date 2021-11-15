@@ -8,8 +8,8 @@ while useless_loop == True:
 
     if "print functions" in request:
         print("\n1. New - for New Account"
-            "\n2. "
-            "\n"
+            "\n2. Log In - for Log In "
+            "\n. Exit or Close - Close Program"
             "\n"
             "\n")
     #create new profile
